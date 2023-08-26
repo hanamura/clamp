@@ -1,8 +1,8 @@
-# 📜 TypeScript Lib Template
+# 🗜️ clamp
 
 # Usage
 
 ```ts
-import { sample } from '@hanamura/typescript-lib-template'
-sample()
+import { clamp } from '@hanamura/clamp'
+clamp(0, 5, 10) // => 5
 ```
